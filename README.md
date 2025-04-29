@@ -1,6 +1,6 @@
 # 🛡️ Cifra de César
 
-> 🔐 Sistema de criptografia e descriptografia baseado na clássica técnica da **Cifra de César**, onde cada letra é substituída por sua sucessora no alfabeto.
+> 🔐 Sistema de criptografia e descriptografia baseado na **Cifra de César**, onde cada letra é substituída por sua sucessora no alfabeto.
   
 
 ---
