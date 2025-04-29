@@ -14,7 +14,7 @@ O programa foi feito em Python e utiliza tratamento de letras maiúsculas, minú
 
 - Python 3
 - Biblioteca `unicodedata` 
-- biblioteca 'os' 
+- biblioteca `os` 
 
 ## Status do Projeto
 
