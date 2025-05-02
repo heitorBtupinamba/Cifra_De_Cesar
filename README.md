@@ -21,8 +21,8 @@ Este sistema permite ao usuário:
 ## 🧰 Tecnologias Utilizadas
 
 - 🐍 **Python 3**
-- 🔠 `unicodedata` — para tratamento de acentuação
-- 💻 `os` — para comandos de terminal (como limpar tela)
+- 🔠 `unicodedata` — para manipulação de caracteres e tratamento de acentuação
+- 💻 `os` — para comandos de terminal 
 
 ---
 
